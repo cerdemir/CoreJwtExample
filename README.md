@@ -1,1 +1,2 @@
-# CoreJwtExample
+# CoreJwtExample 
+Şirket içi demo & sunum
